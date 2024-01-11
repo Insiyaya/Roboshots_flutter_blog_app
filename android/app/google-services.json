@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653042539891",
+    "project_id": "roboshots-db474",
+    "storage_bucket": "roboshots-db474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653042539891:android:27bd85c685fef02fe13906",
+        "android_client_info": {
+          "package_name": "com.example.roboshots"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5683gvwfePnEBNOwyY4CEiCo7Svdavw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
